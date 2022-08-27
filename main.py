@@ -51,6 +51,7 @@ def usersInfo(userId: int):
 # }
 # @app.????(???)
 def itemCreator(item: Item):
+    print("Assume that I edited the code")
     # TODO: Print body's name and price to console.
     return item.name, item.price
 
